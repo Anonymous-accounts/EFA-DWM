@@ -44,10 +44,10 @@ python train.py
 ## 4. Empirical Results
 
 - [**Section 4.1: The comparison with VDN, QMIX, Weighted QMIX, COMA, CommNet and G2ANet on Cooperative Navigation.**](#41-The-final-results-on-cooperative-navigation)
-- [**Section 4.2: The comparison with VDN, QMIX, Weighted QMIX, COMA, CommNet and G2ANet on Google Football.**](42-the-final-results-on-google-football)
-- [**Section 4.3: The comparison LOLA (2 agents).**](43-the-comparison-with-lola)
-- [**Section 4.4: The comparison with BiAC (2 agents).**](44-the-comparison-with-biac)
-- [**Section 4.5: The  importance of optimally electing the leader**](45-the-importance-of-optimally-electing-the-leader)
+- [**Section 4.2: The comparison with VDN, QMIX, Weighted QMIX, COMA, CommNet and G2ANet on Google Football.**](#42-the-final-results-on-google-football)
+- [**Section 4.3: The comparison LOLA (2 agents).**](#43-the-comparison-with-lola)
+- [**Section 4.4: The comparison with BiAC (2 agents).**](#44-the-comparison-with-biac)
+- [**Section 4.5: The  importance of optimally electing the leader**](#45-the-importance-of-optimally-electing-the-leader)
 
 ### 4.1. The final results on Cooperative Navigation 
 
@@ -56,7 +56,6 @@ python train.py
 ![CN](./graph/CN.png)
 
 ### 4.2. The final results on Google Football
-
 
 
 ![GF](./graph/GF.png)
@@ -72,7 +71,7 @@ Tips:
 ![LOLA](./graph/CN-all.png)
 
 ### 4.4. The comparison with BiAC
-- **2 agents on the Cooperative Navigation**
+- **2 agents on the Cooperative Navigation and Google Football**
 
 ![Biac](./graph/CN-all.png)
 
