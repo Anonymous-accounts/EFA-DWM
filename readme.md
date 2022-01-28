@@ -75,7 +75,7 @@ Tips:
 
 ![Biac](./graph/CN-all.png)
 
-### 4.5. The  importance of optimally electing the leader
+### 4.5. The importance of optimally electing the leader
 
 - **The emperical results about 2 agents and 5 agents on the Cooperative Navigation**
 
